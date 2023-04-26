@@ -105,6 +105,13 @@ for i in range(0,9):
 ![Screenshot 2023-04-26 140646](https://user-images.githubusercontent.com/118889454/234518970-6ec45a8b-93a6-4118-ac44-ab833122a83c.png)
 
 
+
+
+
+
+
+
+
 ### Global Thresholding :
 
 ![Screenshot 2023-04-26 140814](https://user-images.githubusercontent.com/118889454/234519940-17dab81b-051e-4754-9f03-2615a810e3e3.png)
@@ -113,6 +120,12 @@ for i in range(0,9):
 ### Adaptive Thresholding :
 
 ![Screenshot 2023-04-26 141424](https://user-images.githubusercontent.com/118889454/234520939-4fbc7a13-6134-4405-8806-3a7804c82752.png)
+
+
+
+
+
+
 
 
 ### Optimum Global Thesholding using Otsu's Method :
