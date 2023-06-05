@@ -72,7 +72,7 @@ ret,thresh_white5=cv2.threshold(image_gray,100,255,cv2.THRESH_TRUNC)
 ret,thresh_white6=cv2.threshold(image_gray,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
 ```
 
-# Use Otsu's method to segment the image :
+### Use Otsu's method to segment the image :
 ```python
 thresh_white7=cv2.adaptiveThreshold(image_gray,255,cv2.ADAPTIVE_THRESH_MEAN_C,cv2.THRESH_BINARY,11,2)
 thresh_white8=cv2.adaptiveThreshold(image_gray,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,11,2)
